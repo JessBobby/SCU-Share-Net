@@ -12,5 +12,5 @@ WIN10 WIN11在WiFi连接后，可以直接在WIN 网络和Internet设置中打�
 ##### 1 正常完成认证连接
 ##### 2.1 打开任务管理器-2.2 性能-2.3 打开资源监视器
 ##### 3.1 CPU-3.2 找到8021x.exe和suservice.exe进程-3.3 暂停这两进程
-![](https://github.com/JessBobby/SCU-Share-Net/blob/main/1.jpg)  
+![](https://github.com/JessBobby/SCU-Share-Net/blob/main/1.png)  
 ## 4 享受pc、pad、phone多设备上网！
